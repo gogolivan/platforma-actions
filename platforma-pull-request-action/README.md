@@ -50,7 +50,7 @@ need to perform some initial setup steps before you can develop your action.
 1. :hammer_and_wrench: Install the dependencies
 
    ```bash
-   npm install
+   npm ci
    ```
 
 1. :building_construction: Package the TypeScript for distribution
