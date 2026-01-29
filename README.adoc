@@ -8,11 +8,9 @@ Clone official GitHub Actions TypeScript template
 git clone https://github.com/actions/typescript-action.git platforma-pull-request-action --depth 1 && rm -rf ./platforma-pull-request-action/.git
 ----
 
-[NOTE]
-====
-More more details check `README.md` file in the cloned repository.
-====
-
+1. Navigate to the cloned directory.
+2. Configure `package.json` file to set name, description, author, repository, keywords, etc.
+3. Read `README.md` file for more details on how to build and test the action.
 
 == References
 * https://github.com/actions/typescript-action[GitHub Actions TypeScript Template]

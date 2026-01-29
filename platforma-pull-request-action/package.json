@@ -1,6 +1,6 @@
 {
-  "name": "typescript-action",
-  "description": "GitHub Actions TypeScript template",
+  "name": "platforma-pull-request-action",
+  "description": "GitHub Actions for managing pull requests",
   "version": "0.0.0",
   "author": "",
   "type": "module",
