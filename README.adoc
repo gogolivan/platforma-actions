@@ -1,0 +1,18 @@
+= Platforma Actions
+
+
+== Getting Started 
+Clone official GitHub Actions TypeScript template
+[source, text]
+----
+git clone https://github.com/actions/typescript-action.git platforma-pull-request-action --depth 1 && rm -rf ./platforma-pull-request-action/.git
+----
+
+[NOTE]
+====
+More more details check `README.md` file in the cloned repository.
+====
+
+
+== References
+* https://github.com/actions/typescript-action[GitHub Actions TypeScript Template]
