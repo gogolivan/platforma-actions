@@ -9,8 +9,9 @@ git clone https://github.com/actions/typescript-action.git platforma-pull-reques
 ----
 
 1. Navigate to the cloned directory.
-2. Configure `package.json` file to set name, description, author, repository, keywords, etc.
-3. Read `README.md` file for more details on how to build and test the action.
+2. Create `.nvmrc` file and set the Node.js version from `.node-version` file.
+3. Configure `package.json` file to set name, description, author, repository, keywords, etc.
+4. Read `README.md` file for more details on how to build and test the action.
 
 == References
 * https://github.com/actions/typescript-action[GitHub Actions TypeScript Template]
